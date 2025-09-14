@@ -1,0 +1,1 @@
+export const COUNTER_CONTRACT_NAME = "YourContract" as const;
